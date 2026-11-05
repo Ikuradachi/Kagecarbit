@@ -19,8 +19,26 @@ Click the button below, or manually add this repo URL to Morphe Manager: https:/
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/Ikuradachi/Kagecarbit/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;4 patches total
+<details open>
+<summary>📦 CarbitLink&nbsp;&nbsp;•&nbsp;&nbsp;4 patches</summary>
+<br>
 
-Published patches and supported app versions will appear here after the first release.
+**Package name:** `net.easyconn.carman.wws`
+
+**🎯 Supported versions:**
+
+| 6.5.1 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Disable tracking and analytics (Experimental)](#disable-tracking-and-analytics-experimental) | Attempts to block background telemetry and trackers. Not guaranteed to stop 100% of data collection. |  |
+| [Enable browser](#enable-browser) | Shows the browser in the projected mirror grid for non-SDK mode. |  |
+| [GmsCore support](#gmscore-support) | Uses Morphe GmsCore for Google sign-in and sign-out. |  |
+| [Unlock VIP features](#unlock-vip-features) | Enables Mapbox, Google Maps, Spotify integration, and TwinSpace features. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
